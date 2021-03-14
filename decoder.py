@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 
+#settings
 startpx = 110
 quality = 4
 filename = "test.wav"
